@@ -32,3 +32,6 @@ python image_encryption.py
 - Input: Original image
 - Process: Pixel value encryption using secret key
 - Output: Encrypted image and decrypted image
+
+  <img width="512" height="800" alt="encrypted_image" src="https://github.com/user-attachments/assets/c739ae43-fd70-400a-a66b-c9be5fc98309" />
+
