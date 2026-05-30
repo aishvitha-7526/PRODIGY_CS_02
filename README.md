@@ -32,7 +32,7 @@ python image_encryption.py
 - Input: Original image
 - Process: Pixel value encryption using secret key
 - Output: Encrypted image and decrypted image
-
-<img width="512" height="800" alt="encrypted_image" src="https://github.com/user-attachments/assets/c739ae43-fd70-400a-a66b-c9be5fc98309" />
 <img width="512" height="800" alt="1" src="https://github.com/user-attachments/assets/839bc272-fafd-465c-b93c-4bab37508d56" />
+<img width="512" height="800" alt="encrypted_image" src="https://github.com/user-attachments/assets/c739ae43-fd70-400a-a66b-c9be5fc98309" />
+<img width="512" height="800" alt="decrypted_image" src="https://github.com/user-attachments/assets/d6033dc1-fd72-4328-8ef2-79faa42a0a1f" />
 
